@@ -2,7 +2,6 @@
 
 # dependencies
 Basic/node_modules
-mui_form/node_modules
 /.pnp
 .pnp.js
 

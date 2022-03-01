@@ -156,10 +156,10 @@ const ButtonComponent = () => {
       </div>
 
       <div>
-        <h5>Button Group</h5>
+        <h5>Button Group munna</h5>
         <ButtonGroup
           variant="outlined"
-          color="success"
+          color="info"
           orientation="vertical"
           aria-label="outlined success button group"
         >
